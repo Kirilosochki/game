@@ -10,7 +10,7 @@ jumping = False
 listening = True
 godmode = False
 sleep = 0.05
-
+#прикольный динозаврик)
 def message ():
 	print ("""
 
